@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: rgb(253, 253, 253);
+    
+    
+}
+.full_websight{
+    text-align: center;
+    width: 800px;
+    margin: 0, auto;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 6px 6px 6px rgba(0, 0, 0, .5);
+}
+.header{
+    background: rgb(185, 14, 185);
+   padding:15px 0px;
+}
+.container{
+    background: #7f8fa6;
+    padding:50px 0px;
+}
+.main_footer{
+    background: #353b48;
+    padding-top:25px;
+    padding-bottom:25px;
+}
+.footer{
+    background: #2f3640;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+img{
+    margin-bottom:-5px;
+    max-width: 100%;
+}
